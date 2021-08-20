@@ -49,3 +49,6 @@ C:\Users\james\OneDrive\Desktop\coding_dojo\CSharp\TheXPressGames\obj\Debug\net5
 C:\Users\james\OneDrive\Desktop\coding_dojo\CSharp\TheXPressGames\obj\Debug\net5.0\TheXPressGames.pdb
 C:\Users\james\OneDrive\Desktop\coding_dojo\CSharp\TheXPressGames\obj\Debug\net5.0\TheXPressGames.genruntimeconfig.cache
 C:\Users\james\OneDrive\Desktop\coding_dojo\CSharp\TheXPressGames\obj\Debug\net5.0\Razor\Views\Home\_Register.cshtml.g.cs
+C:\Users\james\OneDrive\Desktop\coding_dojo\CSharp\TheXPressGames\obj\Debug\net5.0\Razor\Views\Posts\HomePage.cshtml.g.cs
+C:\Users\james\OneDrive\Desktop\coding_dojo\CSharp\TheXPressGames\obj\Debug\net5.0\Razor\Views\Posts\_NewPost.cshtml.g.cs
+C:\Users\james\OneDrive\Desktop\coding_dojo\CSharp\TheXPressGames\obj\Debug\net5.0\Razor\Views\Posts\Details.cshtml.g.cs

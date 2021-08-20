@@ -79,7 +79,7 @@ namespace ForumDemo.Controllers
                 .Include(post => post.Author) // hover over the param to see it's data type
                 .Include(post => post.Likes)
                 .ToList();
-            return View("All", allPosts);
+            return View("Homepage", allPosts);
 
             /* 
             The db.Posts and the .Include did this:

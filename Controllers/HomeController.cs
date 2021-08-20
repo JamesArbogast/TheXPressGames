@@ -108,7 +108,7 @@ namespace TheXPressGames.Controllers
 
             HttpContext.Session.SetInt32("UserId", dbUser.UserId);
             HttpContext.Session.SetString("FirstName", dbUser.FirstName);
-            return RedirectToAction("All", "Weddings");
+            return RedirectToAction("All", "Posts");
         }
 
         [HttpPost("/logout")]
